@@ -1,11 +1,19 @@
 <!-- ✨ Krishna's profile README ✨ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Krishna%20Jaiswal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9C%A8%20bugs%20are%20just%20unexplored%20edge%20cases%20%E2%9C%A8&descSize=18&descAlignY=60" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Krishna%20Jaiswal&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%E2%9C%A8%20bugs%20are%20just%20unexplored%20edge%20cases%20%E2%9C%A8&descSize=18&descAlignY=60" alt="header" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=F5C2E7&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Krishna+%F0%9F%91%8B;CS+%26+Data+Science+%40+IIT+Delhi+%F0%9F%8E%93;I+turn+coffee+into+C%2B%2B+%E2%98%95;I+teach+hardware+to+fix+its+own+bits+%F0%9F%94%A7;Currently+chasing+green+checkmarks+%E2%9C%85" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=00FF66&background=00000000&center=true&vCenter=true&width=520&lines=%24+system.init%28%29%3B;%24+loading+algorithms...;%24+compiling+Verilog+modules...;%24+welcome+to+my+profile+%E2%9C%A8" alt="Terminal animation" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=F5C2E7&center=true&vCenter=true&width=420&lines=%3D%5E..%5E%3D+purrr...;%28%3D%5E.%5E%3D%29+merging+PRs+with+my+paws;%28%5E_%5E%29%2F+thanks+for+visiting%21" alt="Kaomoji cat" />
 </p>
 
 <p align="center">
